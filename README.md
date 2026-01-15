@@ -1,1 +1,1 @@
-# ubc_competitive_programming_club
+# ubc competitive programming club and ICPC problems
