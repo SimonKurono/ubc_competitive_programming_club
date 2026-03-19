@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include "bits/stdc++.h"
 using namespace std;
 
 using ll = long long;
@@ -21,7 +21,8 @@ int main() {
 
     int t = 1;
     cin >> t;                 // If problem has no t, delete this line and keep t=1
-    while (t--) solve();
-
+    while (t--) {
+        solve();
+    }
     return 0;
 }
